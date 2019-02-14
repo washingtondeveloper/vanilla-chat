@@ -1,1 +1,3 @@
-# vanilla-chat-box
+# Chat-Box
+- Essa aplicação é um exemplo, para chats automaticos...
+- Criei uma assitênte para conversar com você, veja no link logo.
