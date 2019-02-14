@@ -59,5 +59,5 @@ function addMsgSilvia() {
 }
 
 function myScroll() {
-    content.scrollTop = content.scrollTopMax;
+    content.scrollTop += content.offsetTop + content.offsetTop;
 }
