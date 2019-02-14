@@ -27,15 +27,22 @@ body {
     right: var(--position-default);
 }
 
+@media (max-width: 400px) {
+    .box {
+        right: 0;
+        width: 100%;
+    }
+}
+
 .header {
     grid-area: header;
+    text-align: center
 }
 
 .header-img {
     width: 100px;
-    position: absolute;
-    top: -19%;
-    right: 125px;
+    position: relative;
+    top: -200%;
 }
 
 .content {
